@@ -43,3 +43,28 @@ After which different variants are designed keeping in mind the parameters
 (resources, time and area). From which the most Optimized variant is selected
 and implemented. Finally it provides the analysis, evaluation and verification of
 results and at last, the Conclusion.
+
+
+ASIC
+It stands for application-specific integrated circuit. These are silicon chips
+designed for a very specific purpose, created to perform a repeated function very
+effectively rather than general purpose chips which can perform an endless
+variety of functions, but less efficiently. It is an integrated circuit (IC) chip
+customized for a particular use, rather than intended for general purpose use.
+Application Specific Processor
+ASP has a fixed instruction set for a single purpose. It has the instruction set
+necessary to do so. It is never general purpose and for that matter can not
+perform some simple tasks if its instruction set does not support it. Its
+instruction set is specifically designed to accelerate heavy and most used
+functions. Its architecture is designed to implement the assembly instruction set
+with minimum hardware cost.
+Why Verilog?
+Verilog and reason for choosing it over VHDL: Verilog is a Hardware
+Description Language; a textual format for describing electronic circuits and
+systems. Applied to electronic design, Verilog is intended to be used for
+verification through simulation, for timing analysis, for test analysis (testability
+analysis and fault grading) and for logic synthesis.
+It has support for bidirectional primitives that make it better for ASIC
+verification. The preference of VHDL is reducing because it’s verification edge
+over Verilog is thoroughly replaced by SystemVerilog. Also, Verilog is already
+better in terms of RTL compared to VHDL.
