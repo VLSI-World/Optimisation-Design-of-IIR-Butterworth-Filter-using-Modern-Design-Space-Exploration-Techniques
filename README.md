@@ -51,6 +51,7 @@ designed for a very specific purpose, created to perform a repeated function ver
 effectively rather than general purpose chips which can perform an endless
 variety of functions, but less efficiently. It is an integrated circuit (IC) chip
 customized for a particular use, rather than intended for general purpose use.
+
 Application Specific Processor
 ASP has a fixed instruction set for a single purpose. It has the instruction set
 necessary to do so. It is never general purpose and for that matter can not
@@ -58,6 +59,7 @@ perform some simple tasks if its instruction set does not support it. Its
 instruction set is specifically designed to accelerate heavy and most used
 functions. Its architecture is designed to implement the assembly instruction set
 with minimum hardware cost.
+
 Why Verilog?
 Verilog and reason for choosing it over VHDL: Verilog is a Hardware
 Description Language; a textual format for describing electronic circuits and
