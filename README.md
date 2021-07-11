@@ -1,5 +1,5 @@
-# Optimisation Design of IIR Filter using
-# Application Specific IC Design
+## About - ASIC Design Flow
+Optimisation Design of IIR Filter using Application Specific IC Design
 
 Demonstrated implementation of Optimisation and Unoptimised Variant's Verilog Code Files 
 
