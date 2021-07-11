@@ -1,7 +1,8 @@
-## About - ASIC Design Flow
-Optimisation Design of IIR Filter using Application Specific IC Design
+### About - ASIC Design-Flow based Project
+Optimisation Design of IIR Filter using Application Specific IC Design Flow and Design Space Exploration Techniques with Modern Optimisation Methods and High Level Synthesis HLS Design Flow.
 
-Demonstrated implementation of Optimisation and Unoptimised Variant's Verilog Code Files 
+With the evolution of electronic devices, the demand for sophisticated high performance, low area and low power consumption Application Specific Processor (ASP) is ever increasing, which aims to process a particular functional application. This project focuses on the design of IIR Butterworth Filter, which is used to demonstrate the High-Level Synthesis (HLS) design flow providing the general comprehensive diagnostic pathway to design the same. 
+This project will proceed using the help of Verilog HDL for coding purposes. The optimised variation for IIR Butterworth filter is found using Design Space Exploration DSE Techniques. The most optimised variant result based upon (hypothetical) least of each area, no of resources and time is designed and simulated using Hardware Descriptive Language (here Verilog). Demonstrated implementation of Optimised and Unoptimised Variant's Verilog Code Files
 
 With the evolution of electronic devices, the demand for sophisticated
 high performance, low area and low power consumption Application Specific
