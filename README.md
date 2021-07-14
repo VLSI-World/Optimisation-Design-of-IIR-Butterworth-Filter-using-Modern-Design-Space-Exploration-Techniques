@@ -17,3 +17,5 @@ Why Verilog?
 Verilog and reason for choosing it over VHDL: Verilog is a Hardware Description Language; a textual format for describing electronic circuits and
 systems. Applied to electronic design, Verilog is intended to be used for verification through simulation, for timing analysis, for test analysis (testability
 analysis and fault grading) and for logic synthesis. It has support for bidirectional primitives that make it better for ASIC verification. The preference of VHDL is reducing because it’s verification edge over Verilog is thoroughly replaced by SystemVerilog. Also, Verilog is already better in terms of RTL compared to VHDL.
+
+For more details contact @abhaypawar on LinkedIn
