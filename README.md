@@ -19,3 +19,5 @@ systems. Applied to electronic design, Verilog is intended to be used for verifi
 analysis and fault grading) and for logic synthesis. It has support for bidirectional primitives that make it better for ASIC verification. The preference of VHDL is reducing because it’s verification edge over Verilog is thoroughly replaced by SystemVerilog. Also, Verilog is already better in terms of RTL compared to VHDL.
 
 For more details contact @abhaypawar on LinkedIn
+
+The Project is based on HLS Design Flow, so if you're looking for complete implementation and with detailed simulation steps, stay tunned for debugged files.
